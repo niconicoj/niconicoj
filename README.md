@@ -6,8 +6,6 @@ I'm currently working on making my personal blog as a learning experience. I pla
 
 I recently fell in love with anything strongly typed. As someone who for a long time worked with php and vanilla js I absolutely love the safety and capabilities a good typed language allows.
 
-You can have a look at my personal website, although it's pretty slim content wise : [niconico.io](https://niconico.io)
-
 You can reach out to me by sending me an email at joulin.nicolas@gmail.com or by sending me a message on [linkedin](https://www.linkedin.com/in/nicolas-joulin-8b5a92166/).
 
 
